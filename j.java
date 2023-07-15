@@ -1,4 +1,4 @@
-import java.util.*;                             //In this code we replace 'e' with 'i'.
+import java.util.*;                             //In this code we replace the character 'e' with character 'i' of a string.
 public class j {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
